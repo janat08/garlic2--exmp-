@@ -79,25 +79,6 @@
 		</div>
   </div>
 	</div>
-	landing page
-	usage statistics
-	about veaturing integrated mainstream services
-	tabs HAVE REVEAL FOR ACTUAL TAB CONTENT ON OUTSET HAVING PRIDE OF THE WEBSITE
-	accordions
 
-	Subscribe to char bazaar and be notified when your perfect character is available (or less so in particular)
-	Find and apply to corps that are watching out for some one like you
-	New to the game, bridge corps expectations with your eagerness
-	Advertise your corporation as your support the website with donations
-
-	Number of applications accepted etc
-	Number of new or fitting characters on bazaar A MODULE TO BE SHOWN IN OTHER PARTS TOO
-	Level of acceptability of character by bazaar
-	General likelihood of occurance of such application
-	General wait time of application
-
-
-	modules for statistics like: wait time for app or char availability, price delta and etc, acceptance, applications approved
 
 </template>
-export default
