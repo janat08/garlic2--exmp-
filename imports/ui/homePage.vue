@@ -100,6 +100,4 @@
 	modules for statistics like: wait time for app or char availability, price delta and etc, acceptance, applications approved
 
 </template>
-
-<script>
-export default 
+export default
